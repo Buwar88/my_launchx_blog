@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Irving Jaramillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://buwar88.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://buwar88.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi experiencia en lo que va de LaunchX</title>
+      <link>https://buwar88.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://buwar88.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Desde que estaba en la carrera de computación, nunca me había gustado programar, para empezar porque el único lenguaje que impartían en las clases era C++, no había mucho de donde elegir, pero ademas de ello, las clases no resultaban muy llamativas que digamos. Hace algún tiempo antes de LaunchX, intenté aprender por mi cuenta Python, Html, CSS, Javascript, obtuve algunos conocimientos pero no entendí del todo. En LaunchX vine a reforzar en el Onboarding mis conocimiento de Python, pero además, aprendí muchas cosas mas de Él.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://buwar88.github.io/my_launchx_blog/pages/about/</link>
